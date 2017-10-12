@@ -6,7 +6,7 @@ Gamr is a Like/Dislike style app, used in the course CMPUT401 at the University 
 
 First clone the application code into any directory on your disk (preferably, not using spaces in the folder structure)
 ```sh
-$ git clone https://github.com/dfserrano/GamrAPI
+$ git clone https://github.com/dfserrano/GamrAPI.git
 $ cd GamrAPI
 ```
 
