@@ -45,8 +45,12 @@ python -m unittest discover
 
 ## References
 These resources were used for the creation of this app:
+
 Flask: http://flask.pocoo.org/
+
 Flask-restplus: http://flask-restplus.readthedocs.io/en/stable/
+
 Flask-CORS: https://pypi.python.org/pypi/Flask-Cors
+
 Useful tutorial: http://michal.karzynski.pl/blog/2016/06/19/building-beautiful-restful-apis-using-flask-swagger-ui-flask-restplus/
 
