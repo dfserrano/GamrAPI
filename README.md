@@ -43,6 +43,11 @@ If you just want to test the app, then type this instead
 python -m unittest discover
 ```
 
+The application will be available at port 8888.  Then, to access the Swagger API documentation, the address you have to type is:
+
+http://localhost:8888/api
+
+
 ## References
 These resources were used for the creation of this app:
 
